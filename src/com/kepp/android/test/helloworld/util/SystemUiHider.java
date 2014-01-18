@@ -1,4 +1,4 @@
-package com.example.helloworld.util;
+package com.kepp.android.test.helloworld.util;
 
 import android.app.Activity;
 import android.os.Build;

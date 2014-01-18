@@ -1,6 +1,6 @@
-package com.example.helloworld;
+package com.kepp.android.test.helloworld;
 
-import com.example.helloworld.util.SystemUiHider;
+import com.kepp.android.test.helloworld.util.SystemUiHider;
 
 import android.annotation.TargetApi;
 import android.app.Activity;

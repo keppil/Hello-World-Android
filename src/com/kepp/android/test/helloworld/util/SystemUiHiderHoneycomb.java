@@ -1,4 +1,4 @@
-package com.example.helloworld.util;
+package com.kepp.android.test.helloworld.util;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
