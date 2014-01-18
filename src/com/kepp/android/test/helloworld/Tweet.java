@@ -83,6 +83,6 @@ public class Tweet {
 
 	@Override
 	public String toString() {
-		return this.getText();
+		return this.getDateCreated() + ":  " + this.getText();
 	}
 }
